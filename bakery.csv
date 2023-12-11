@@ -1,0 +1,196 @@
+Item,Daypart,Customer Rating,Profit,Average Sale,Carbon Footprint
+Alfajores,Afternoon,3.3,10.7155061324,2.84883720930233,1
+Alfajores,Evening,3.3,10.7155061324,1.30769230769231,1
+Alfajores,Morning,3.3,10.7155061324,1.75409836065574,1
+Art Tray,Afternoon,4.1,4.48842617429935,1.29166666666667,0.1
+Art Tray,Evening,4.1,4.48842617429935,1,0.1
+Art Tray,Morning,4.1,4.48842617429935,1,0.1
+Bacon,Afternoon,,0.8,1,1
+Baguette,Afternoon,2.9,4.22039417506597,1.55813953488372,0.3
+Baguette,Evening,2.9,4.22039417506597,1,0.3
+Baguette,Morning,2.9,4.22039417506597,1.82608695652174,0.3
+Bakewell,Afternoon,4.4,1.94573321160684,2.14285714285714,0.5
+Bakewell,Morning,4.4,1.94573321160684,1.63636363636364,0.5
+Bare Popcorn,Afternoon,3,1.43896874271993,1.33333333333333,0.3
+Bare Popcorn,Evening,3,1.43896874271993,1,0.3
+Basket,Morning,2.5,13.3377986129285,2,0.1
+Bowl Nic Pitt,Afternoon,,7.13213583805358,1,0.1
+Bread,Afternoon,2.4,2.04,10.5126582278481,0.3
+Bread,Evening,2.4,2.04,1.42105263157895,0.3
+Bread,Morning,2.4,2.04,10.125786163522,0.3
+Bread Pudding,Afternoon,1.3,2.17,2,0.5
+Brioche and salami,Afternoon,3.8,1.64397096832239,1,1
+Brioche and salami,Morning,3.8,1.64397096832239,1,1
+Brownie,Afternoon,4.6,2.3,3.19230769230769,1
+Brownie,Evening,4.6,2.3,1.4,1
+Brownie,Morning,4.6,2.3,2.12068965517241,1
+Cake,Afternoon,4.4,3.15,5.2589928057554,0.5
+Cake,Evening,4.4,3.15,1.25,0.5
+Cake,Morning,4.4,3.15,2.44444444444444,0.5
+Caramel bites,Afternoon,2.6,7.21494125286452,2,0.5
+Caramel bites,Morning,2.6,7.21494125286452,1,0.5
+Cherry me Dried fruit,Afternoon,1,3.10289880637539,1,0.3
+Cherry me Dried fruit,Morning,1,3.10289880637539,1,0.3
+Chicken Stew,Afternoon,3.2,4.91201543090458,1.88709677419355,1
+Chicken Stew,Evening,3.2,4.91201543090458,1,1
+Chicken Stew,Morning,3.2,4.91201543090458,1,1
+Chicken sand,Afternoon,4.2,8.76122787764169,1,1
+Chimichurri Oil,Afternoon,5,22.443002117266,1,0.1
+Chocolates,Afternoon,5,1.8,1.25,1
+Chocolates,Evening,5,1.8,1,1
+Chocolates,Morning,5,1.8,1,1
+Christmas common,Afternoon,4.1,5.54313812822529,1.33333333333333,0.1
+Christmas common,Morning,4.1,5.54313812822529,1.4,0.1
+Coke,Afternoon,,1.25,1.56666666666667,0.1
+Coke,Evening,,1.25,1.71428571428571,0.1
+Coke,Morning,,1.25,1.10344827586207,0.1
+Cookies,Afternoon,3.9,2.6,2.504,0.3
+Cookies,Evening,3.9,2.6,1.05,0.3
+Cookies,Morning,3.9,2.6,2.03960396039604,0.3
+Crepes,Afternoon,4.1,3.9,2,0.5
+Crisps,Afternoon,1,0.965978781970212,1.1,0.3
+Crisps,Morning,1,0.965978781970212,1,0.3
+Duck egg,Afternoon,2,2.69534574563186,1,1
+Duck egg,Evening,2,2.69534574563186,1,1
+Duck egg,Morning,2,2.69534574563186,1,1
+Dulce de Leche,Afternoon,4.6,1.35,2,0.1
+Dulce de Leche,Evening,4.6,1.35,1,0.1
+Dulce de Leche,Morning,4.6,1.35,1,0.1
+Eggs,Afternoon,,1.3,1.06666666666667,0.3
+Eggs,Evening,,1.3,1,0.3
+Eggs,Morning,,1.3,1.1,0.3
+Ella's Kitchen Pouches,Afternoon,5,7.81560617393555,1,0.1
+Ella's Kitchen Pouches,Evening,5,7.81560617393555,1,0.1
+Ella's Kitchen Pouches,Morning,5,7.81560617393555,1.28571428571429,0.1
+Empanadas,Afternoon,3.7,4.79,1.66666666666667,1
+Empanadas,Evening,3.7,4.79,1,1
+Empanadas,Morning,3.7,4.79,1,1
+Extra Salami or Feta,Afternoon,,0.8,1.23809523809524,1
+Extra Salami or Feta,Evening,,0.8,1,1
+Extra Salami or Feta,Morning,,0.8,1,1
+Fairy Doors,Afternoon,3.6,7.35,1,0.1
+Farm House,Afternoon,3.6,8.66212111503696,1.80232558139535,0.1
+Farm House,Evening,3.6,8.66212111503696,1.125,0.1
+Farm House,Morning,3.6,8.66212111503696,1.92660550458716,0.1
+Frittata,Afternoon,5,5.57532635402764,2.375,0.5
+Frittata,Morning,5,5.57532635402764,1.25,0.5
+Fudge,Afternoon,4.4,2.9,1.45161290322581,0.5
+Fudge,Evening,4.4,2.9,1.25,0.5
+Fudge,Morning,4.4,2.9,1.86206896551724,0.5
+Gingerbread syrup,Afternoon,1,16.3154435820203,1,0.1
+Gingerbread syrup,Morning,1,16.3154435820203,1.25,0.1
+Granola,Afternoon,3.9,1.68848858949488,1.1,0.3
+Granola,Morning,3.9,1.68848858949488,1,0.3
+Hack the stack,Afternoon,3.9,15.1512176908782,1,0.1
+Hack the stack,Evening,3.9,15.1512176908782,1,0.1
+Hearty & Seasonal,Afternoon,,5.8203971838576,2.72222222222222,0.1
+Hearty & Seasonal,Morning,,5.8203971838576,1.28571428571429,0.1
+Honey,Afternoon,,0.5,1.5,0.1
+Honey,Morning,,0.5,1,0.1
+Hot chocolate,Afternoon,4.5,2.00025047003805,2.68,0.1
+Hot chocolate,Evening,4.5,2.00025047003805,1.5,0.1
+Hot chocolate,Morning,4.5,2.00025047003805,2.10909090909091,0.1
+Hot chocolate,Night,4.5,2.00025047003805,2,0.1
+Jam,Afternoon,4,0.5,1.35555555555556,0.3
+Jam,Evening,4,0.5,1.33333333333333,0.3
+Jam,Morning,4,0.5,1.66666666666667,0.3
+Jammie Dodgers,Afternoon,2.4,8.41982445652855,1.93023255813954,0.1
+Jammie Dodgers,Evening,2.4,8.41982445652855,1,0.1
+Jammie Dodgers,Morning,2.4,8.41982445652855,1.625,0.1
+Juice,Afternoon,,0.878824579055468,2.11320754716981,0.3
+Juice,Evening,,0.878824579055468,1.09090909090909,0.3
+Juice,Morning,,0.878824579055468,1.69230769230769,0.3
+Juice,Night,,0.878824579055468,1,0.3
+Kids biscuit,Afternoon,4,1.1,3,0.1
+Kids biscuit,Evening,4,1.1,1,0.1
+Kids biscuit,Morning,4,1.1,1,0.1
+Lemon and coconut,Afternoon,3.9,0.444926905358495,1.66666666666667,0.1
+Lemon and coconut,Morning,3.9,0.444926905358495,1,0.1
+Medialuna,Afternoon,4.1,1.6,2.17582417582418,0.1
+Medialuna,Evening,4.1,1.6,1.14285714285714,0.1
+Medialuna,Morning,4.1,1.6,3.35,0.1
+Mighty Protein,Afternoon,4.4,6.27086500933279,1.6,0.1
+Mighty Protein,Evening,4.4,6.27086500933279,2,0.1
+Mighty Protein,Morning,4.4,6.27086500933279,1,0.1
+Mineral water,Afternoon,,1.1,1.5,0.1
+Mineral water,Evening,,1.1,1,0.1
+Mineral water,Morning,,1.1,1.11111111111111,0.1
+Mineral water,Night,,1.1,1,0.1
+Mortimer,Afternoon,2.8,2.52398931360682,1,0.1
+Mortimer,Evening,2.8,2.52398931360682,1,0.1
+Mortimer,Morning,2.8,2.52398931360682,1,0.1
+Muesli,Afternoon,3.9,2.7574367744072,1,0.3
+Muesli,Morning,3.9,2.7574367744072,1.66666666666667,0.3
+Muffin,Afternoon,4,2.8,2.51219512195122,0.5
+Muffin,Evening,4,2.8,1.1,0.5
+Muffin,Morning,4,2.8,2.63793103448276,0.5
+My-5 Fruit Shoot,Afternoon,2.8,1.85,1,0.1
+My-5 Fruit Shoot,Evening,2.8,1.85,1,0.1
+My-5 Fruit Shoot,Morning,2.8,1.85,1.16666666666667,0.1
+Nomad bag,Afternoon,2,18.649238271461,1,0.1
+Nomad bag,Evening,2,18.649238271461,1,0.1
+Nomad bag,Morning,2,18.649238271461,1,0.1
+Olum & polenta,Afternoon,5,8.03846252098382,1,0.1
+Panatone,Afternoon,3.9,3.32435596150192,1,0.1
+Panatone,Morning,3.9,3.32435596150192,1,0.1
+Pastry,Afternoon,4.3,2.48332383321124,2.3047619047619,0.5
+Pastry,Evening,4.3,2.48332383321124,1.25,0.5
+Pastry,Morning,4.3,2.48332383321124,4.22377622377622,0.5
+Pick and Mix Bowls,Afternoon,,1.11302070837316,1.71428571428571,0.1
+Pintxos,Evening,4.2,5.13108812831305,6,0.1
+Polenta,Afternoon,5,6.28472708363349,1,0.1
+Raspberry shortbread sandwich,Afternoon,4.4,10.4587228380554,1,0.3
+Raspberry shortbread sandwich,Morning,4.4,10.4587228380554,1,0.3
+Raw bars,Afternoon,3.5,1.98581533852045,1,0.3
+Salad,Afternoon,3.6,9.29906317176772,1.74509803921569,0.3
+Salad,Evening,3.6,9.29906317176772,1,0.3
+Salad,Morning,3.6,9.29906317176772,1,0.3
+Sandwich,Afternoon,2.6,5.67119430181066,8.77124183006536,0.5
+Sandwich,Evening,2.6,5.67119430181066,2.5,0.5
+Sandwich,Morning,2.6,5.67119430181066,2.79411764705882,0.5
+Scandinavian,Afternoon,2.7,4.83747064685972,2.25423728813559,0.1
+Scandinavian,Evening,2.7,4.83747064685972,1.33333333333333,0.1
+Scandinavian,Morning,2.7,4.83747064685972,2.14754098360656,0.1
+Scandinavian,Night,2.7,4.83747064685972,1,0.1
+Scone,Afternoon,1,2.65847317392594,3.19402985074627,0.3
+Scone,Evening,1,2.65847317392594,1,0.3
+Scone,Morning,1,2.65847317392594,2.65853658536585,0.3
+Siblings,Morning,3.9,0.970095966023966,2,0.1
+Smoothies,Afternoon,4.8,6.45742122752821,1.30952380952381,0.3
+Smoothies,Evening,4.8,6.45742122752821,1,0.3
+Smoothies,Morning,4.8,6.45742122752821,1.3125,0.3
+Soup,Afternoon,5,2.78358083101444,3.45744680851064,0.3
+Soup,Evening,5,2.78358083101444,1,0.3
+Soup,Morning,5,2.78358083101444,1.33333333333333,0.3
+Spanish Brunch,Afternoon,1,15.6502513349667,2.2962962962963,0.1
+Spanish Brunch,Morning,1,15.6502513349667,1.6551724137931,0.1
+Spread,Afternoon,3.8,0.55,1,0.1
+Tacos/Fajita,Afternoon,5,10.14,5,0.5
+Tacos/Fajita,Morning,5,10.14,1,0.5
+Tartine,Afternoon,3.9,2.8878985429627,1.58823529411765,0.3
+Tartine,Evening,3.9,2.8878985429627,1,0.3
+Tartine,Morning,3.9,2.8878985429627,1.11764705882353,0.3
+Tea,Afternoon,5,1.9,5.88607594936709,0.3
+Tea,Evening,5,1.9,1.4,0.3
+Tea,Morning,5,1.9,3.12328767123288,0.3
+The BART,Morning,3.9,8,1,0.1
+The Nomad,Afternoon,4.1,26.1421376333717,1.34782608695652,0.1
+The Nomad,Evening,4.1,26.1421376333717,1,0.1
+The Nomad,Morning,4.1,26.1421376333717,1.18181818181818,0.1
+Tiffin,Afternoon,,4.97552121204392,2.11363636363636,0.1
+Tiffin,Evening,,4.97552121204392,1,0.1
+Tiffin,Morning,,4.97552121204392,1.63333333333333,0.1
+Toast,Afternoon,3.6,0.8,1.54054054054054,0.5
+Toast,Morning,3.6,0.8,2.10309278350515,0.5
+Truffles,Afternoon,3.7,9.5,1.85365853658537,0.5
+Truffles,Evening,3.7,9.5,1.75,0.5
+Truffles,Morning,3.7,9.5,1.30769230769231,0.5
+Vegan Feast,Afternoon,4.9,9.14655822522133,1,0.3
+Vegan Feast,Evening,4.9,9.14655822522133,1,0.3
+Vegan Feast,Morning,4.9,9.14655822522133,1,0.3
+Vegan Feast,Night,4.9,9.14655822522133,7,0.3
+Vegan mincepie,Afternoon,4.5,6.36108034107264,1.57894736842105,0.3
+Vegan mincepie,Evening,4.5,6.36108034107264,2,0.3
+Vegan mincepie,Morning,4.5,6.36108034107264,1.375,0.3
+Victorian Sponge,Afternoon,5,11.5457372420413,1.66666666666667,0.3
+Victorian Sponge,Morning,5,11.5457372420413,1,0.3
